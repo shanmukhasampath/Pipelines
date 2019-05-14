@@ -5,6 +5,7 @@ reffasta <- '../../human_g1k_v37.fasta'
 annovar <- '~/Software/annovar'
 shapeit <- '~/Software/shapeit/bin/shapeit'
 ceudir <- '../data/CEU'
+psuedolistdir <- '../pseudoList'
 
 ifile <- 'variant_calls.vcf.gz'
 
